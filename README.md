@@ -11,3 +11,9 @@ This is a blogging website build using Node.JS and  MongoDB  with Markdown synta
 7. MongoDB    -- Dtabase
 8. Atlas      -- Cloud data store
 9. Heroku     -- Deployment 
+
+## Installation :
+```$npm install```
+
+## Run :
+```npm start```
